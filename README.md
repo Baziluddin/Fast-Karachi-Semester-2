@@ -11,3 +11,7 @@ Welcome To Fast 2nd semester repository where you can Access Assignment,Quizes a
 3. Object Oriented Programming(Theory + Lab) :
     - Code with Harry.
       
+Links To Other Semesters :
+
+- 1st Semester :
+  
