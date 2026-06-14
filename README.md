@@ -23,6 +23,8 @@ Links To Other Semesters :
 | 7 | MT1008 | [Multivariable Calculus](./MultivariableCalculus) | 3 |
 | 8 | CS1004 | [Object Oriented Programming (Theory)](./Object%20Oriented%20Programming%20(Theory)) | 3 |
 | 9 | CL1004 | [Object Oriented Programming (Lab)](./Object%20Oriented%20Programming%20(Lab)) | 1 |
+
+
   
 
 ## 🎥 Recommended Channels
@@ -37,3 +39,22 @@ Links To Other Semesters :
 
 ### DLD
 - Neso Academy
+
+
+## 🔗 Useful Websites
+
+- Wonder.site – FAST resources
+- Quizlet – Study flashcards
+- GeeksforGeeks – Programming
+- W3Schools – Web Development
+- Overleaf – LaTeX reports
+- Canva – Presentations
+
+## 🛠 Useful Tools
+
+- ChatGPT
+- Notion
+- Draw.io
+- Visual Studio Code
+- GitHub Desktop
+
