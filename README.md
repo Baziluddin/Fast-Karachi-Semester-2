@@ -1,6 +1,7 @@
 # Fast-Karachi-Semester-2
 Welcome To Fast 2nd semester repository where you can Access Assignment,Quizes and PastPapers.
-⭐ If this repository helped you, consider giving it a star!
+
+- ⭐ If this repository helped you, consider giving it a star!
 
       
 Links To Other Semesters :
