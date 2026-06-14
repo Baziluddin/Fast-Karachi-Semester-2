@@ -1,19 +1,13 @@
 # Fast-Karachi-Semester-2
 Welcome To Fast 2nd semester repository where you can Access Assignment,Quizes and PastPapers.
+⭐ If this repository helped you, consider giving it a star!
 
-1. Digital Logic Design(Theory + Lab) :
-   - Nesco academy.
-   - All About Electronics.
-
-2. Multivariable Calculus :
-   - Proffessor Leonard.
-
-3. Object Oriented Programming(Theory + Lab) :
-    - Code with Harry.
       
 Links To Other Semesters :
 
 -  [1st Semester KHI](https://github.com/Baziluddin/Fast-karachi-SEMESTER-1/blob/main/README.md)
+
+
 
 
 ## 📚 Semester 2 
@@ -30,3 +24,16 @@ Links To Other Semesters :
 | 8 | CS1004 | [Object Oriented Programming (Theory)](./Object%20Oriented%20Programming%20(Theory)) | 3 |
 | 9 | CL1004 | [Object Oriented Programming (Lab)](./Object%20Oriented%20Programming%20(Lab)) | 1 |
   
+
+## 🎥 Recommended Channels
+
+### MVC
+- Professor Leonard
+- Organic Chemistry Tutor
+
+### OOP
+- Bro Code
+- Programming with Mosh
+
+### DLD
+- Neso Academy
