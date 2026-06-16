@@ -8,7 +8,7 @@ Links To Other Semesters :
 
 -   📙 [1st Semester KHI](https://github.com/Baziluddin/Fast-karachi-SEMESTER-1/blob/main/README.md)
 
--  📙 [3rd Semester](https://github.com/Baziluddin/3rd-Semester-)
+-  📙 [3rd Semester KHI](https://github.com/Baziluddin/3rd-Semester-)
 
 
 ## 📚 Semester 2 
