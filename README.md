@@ -6,9 +6,9 @@ Welcome To Fast 2nd semester repository where you can Access Assignment,Quizes a
       
 Links To Other Semesters :
 
--  [1st Semester KHI](https://github.com/Baziluddin/Fast-karachi-SEMESTER-1/blob/main/README.md)
+-   📙 [1st Semester KHI](https://github.com/Baziluddin/Fast-karachi-SEMESTER-1/blob/main/README.md)
 
-
+-  📙 [3rd Semester](https://github.com/Baziluddin/3rd-Semester-)
 
 
 ## 📚 Semester 2 
