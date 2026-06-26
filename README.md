@@ -3,6 +3,7 @@ Welcome To Fast 2nd semester repository where you can Access Assignment,Quizes a
 
 - ⭐ If this repository helped you, consider giving it a star!
 
+----
       
 Links To Other Semesters :
 
@@ -10,6 +11,9 @@ Links To Other Semesters :
 
 -  📙 [3rd Semester KHI](https://github.com/Baziluddin/3rd-Semester-)
 
+-  📙 [4th Semester KHI](https://github.com/Baziluddin/FAST-KARACHI-SEMESTER---4)
+
+----
 
 ## 📚 Semester 2 
 
@@ -25,9 +29,8 @@ Links To Other Semesters :
 | 8 | CS1004 | [Object Oriented Programming (Theory)](./Object%20Oriented%20Programming%20(Theory)) | 3 |
 | 9 | CL1004 | [Object Oriented Programming (Lab)](./Object%20Oriented%20Programming%20(Lab)) | 1 |
 
-
+----
   
-
 ## 🎥 Recommended Channels
 
 ### MVC
@@ -41,11 +44,11 @@ Links To Other Semesters :
 ### DLD
 - Neso Academy
 
+----
 
 ## 🔗 Useful Websites
 
 - Wonder.site – FAST resources
-- Quizlet – Study flashcards
 - GeeksforGeeks – Programming
 - W3Schools – Web Development
 - Overleaf – LaTeX reports
@@ -53,9 +56,7 @@ Links To Other Semesters :
 
 ## 🛠 Useful Tools
 
-- ChatGPT
-- Notion
-- Draw.io
+- ChatGPT 
 - Visual Studio Code
 - GitHub Desktop
 
